@@ -1,17 +1,14 @@
-![Hello](banner.htm)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=4999&color=EA99EA&background=00000035&width=399&lines=Welcome+to+Shimpi+Rawat's+profile++%3C3)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B986FF&background=0000006E&multiline=true&width=402&height=53&lines=Welcome+to+Shimpi+Rawat's+profile++%3C3;CSE+sophomore%2C+India.)](https://git.io/typing-svg)
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/9b/67/e29b67f7e735a9be2fb891a61488437e.gif">
+<img align="right" alt="Coding" width="350" height= "250" src="https://i.pinimg.com/originals/e0/d7/2c/e0d72c8a86fff1e3c7c5cdc9235f11ca.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimpirawat&label=Profile%20views&color=0e75b6&style=flat" alt="shimpirawat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
+- 🛠️ I'm a **CSE Sophomore at Graphic Era Hill Uni Dehradun✏️.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 📫 How to reach me **thisisshimpii@gmail.com**
-
 - ⚡ Fun fact **I am lazy.**
 
 <h3 align="left">Connect with me:</h3>
