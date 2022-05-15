@@ -1,7 +1,5 @@
-![](bannerZ.gif)
+![](ZZZZ.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=4999&color=EA99EA&background=00000035&width=399&lines=Welcome+to+Shimpi+Rawat's+profile++%3C3)](https://git.io/typing-svg)
-
-<img align="right" alt="Coding" width="200" height= "170" src="https://i.pinimg.com/originals/e0/d7/2c/e0d72c8a86fff1e3c7c5cdc9235f11ca.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimpirawat&label=Profile%20views&color=0e75b6&style=flat" alt="shimpirawat" /> </p>
 
