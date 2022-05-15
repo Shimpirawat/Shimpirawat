@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Shimpi's+GitHub+Profile!)](https://git.io/typing-svg)
 <h3 align="center">CSE Sophomore, India.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/9b/67/e29b67f7e735a9be2fb891a61488437e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimpirawat&label=Profile%20views&color=0e75b6&style=flat" alt="shimpirawat" /> </p>
