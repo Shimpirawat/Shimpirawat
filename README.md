@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shimpi Rawat</h1>
 <h3 align="center">CSE Sophomore, India.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b3/f5/40/b3f5403ac513b46cf6bd215daaaeb85a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimpirawat&label=Profile%20views&color=0e75b6&style=flat" alt="shimpirawat" /> </p>
 
