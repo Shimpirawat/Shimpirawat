@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=Os0vaidq&id=EE66B3598A26FFD416A5B97E1DB381A068E85BC9&thid=OIP.Os0vaidqs5PLdlSduZBCqQHaB6&mediaurl=https%3a%2f%2fi.gifer.com%2fE8mi.gif&exph=498&expw=1920&q=banner+gif+tech+anime+images&simid=607992843436840924&FORM=IRPRST&ck=586438B652F019A9B88E5739722D504A&selectedIndex=6&ajaxhist=0&ajaxserp=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shimpi Rawat</h1>
 <h3 align="center">CSE Sophomore, India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/9b/67/e29b67f7e735a9be2fb891a61488437e.gif">
