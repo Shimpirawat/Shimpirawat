@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B475FF&background=0000006E&multiline=true&width=401&height=52&lines=Welcome+to+Shimpi+Rawat's+profile+%3C3;CSE+sophomore%2C+India.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B986FF&background=0000006E&multiline=true&width=402&height=53&lines=Welcome+to+Shimpi+Rawat's+profile++%3C3;CSE+sophomore%2C+India.)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e2/9b/67/e29b67f7e735a9be2fb891a61488437e.gif">
 
