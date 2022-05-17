@@ -1,4 +1,5 @@
-![](ZZZZ.gif)
+![](jjjj.jpg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=4999&color=EA99EA&background=00000035&width=399&lines=Welcome+to+Shimpi+Rawat's+profile++%3C3)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimpirawat&label=Profile%20views&color=0e75b6&style=flat" alt="shimpirawat" /> </p>
