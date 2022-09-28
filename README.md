@@ -8,7 +8,7 @@
 
 - 🛠️ I'm a **CSE Sophomore at Graphic Era Hill Uni Dehradun✏️.**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 📫 How to reach me **thisisshimpii@gmail.com**
+- 📫 How to reach me **shimpirawat.24@gmail.com**
 - ⚡ Fun fact **I am lazy.**
 
 <h3 align="left">Connect with me:</h3>
