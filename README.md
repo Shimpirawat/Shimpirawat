@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🛠️ **CSE undergrad at Graphic Era Hill Uni Dehradun✏️.**
+- 🛠️ **CSE undergrad at Graphic Era Hill University Dehradun.**
 - 🌱 Currently learning **Data Structures and Algorithms.**
 - 📫 Contact **shimpirawat.24@gmail.com**
 
